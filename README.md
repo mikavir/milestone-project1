@@ -1,39 +1,92 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# **HealthCare Hub**
 
-Welcome,
+## UX
+HealthCare Hub is a responsive website that can be viewed and accessed in a wide range of devices. Tt is aimed to inform healthcare professionals the scope of cardiac surgery practice.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## CONTENTS
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+* [User Experience (UX)](#User-Experience-(UX))
+* [Initial Discussion](#Initial-Discussion)
+* [User Stories](#User-Stories)
 
-## Codeanywhere Reminders
+* [Design](#Design)
+* [Colour Scheme](#Colour-Scheme)
+* [Typography](#Typography)
+* [Imagery](#Imagery)
+* [Wireframes](#Wireframes)
+* [Features](#Features)
+* [Accessibility](#Accessibility)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+* [Technologies Used](#Technologies-Used)
+* [Languages Used](#Languages-Used)
+* [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
 
-`python3 -m http.server`
+* [Deployment & Local Development](#Deployment-&-Local-Development)
+* [Deployment](#Deployment)
+* [Local Development](#Local-Development)
+  * [How to Fork](#How-to-Fork)
+  * [How to Clone](#How-to-Clone)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* [Testing](#Testing)
+* [W3C Validator](#W3C-Validator)
+* [Solved Bugs](#Solved-Bugs)
+* [Known Bugs](#Known-Bugs)
+* [Testing User Stories](#Testing-User-Stories)
+* [Credits](#Credits)
+* [Code Used](#Code-Used)
+* [Content](#Content)
+* [Media](#Media)
+* [Acknowledgments](#Acknowledgments)
+- - -
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## User Experience
 
-`http_server`
+### Initial Discussion
+  
+#### Project Goals
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+   HealthCare Hub is a website aimed to give information ans cope of Cardiac Surgery to Healthcare professionals in aim to recruit them.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Key information for the site
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* Benefits of a healthCare professional working in cardiac Surgery
+* Cardiac Surgeries avaiable at present
+* Roles and Responsibilities of Healthcare professionals in Cardiac Surgery
+* Location of Cardiac Surgery Centres
+* A way to contact for more information
 
-To log into the Heroku toolbelt CLI:
+### User Stories
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#### Client Goals
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+*As a client I want users to:*
 
----
+* To be able to view the website using a range of device for accesibility
+* To be informed of cardiac surgery and it's scope
+* To be informed of the benefits working as a healthcare-professional in Cardiac Surgery
+* To be informed of the roles and responsibility as a healthcare professional
+* to be informed of the locations of centres that provide Cardiac surgery
+* To increase recruitment of nurses in Cardiac surgery
 
-Happy coding!
+#### Visitor Goals
+
+*As a visitor I want to:*
+
+* Gain knowledge of cardiac surgery and what it involves
+* Gain an understanding of roles and responsibilities as a health-care professional
+* Understand of my eligibility for the role
+* Explore where they do cardiac Surgery
+* Understand the benefits of partaking in the role
+
+## Returning Visitor Goals
+*As a visitor returning to the website,  I want to:*
+
+* Know which centres I can go to find employment in cardiac surgery
+* Find Contact information to gain further information on Cardiac Surgery
+* Find further resources on cardiac surgery
+
+## Design
+
+![HeartCare Hub colour palete](https://www.color-hex.com/color-palette/1038387)
+
+Thi set of colours were chosen to provide association with the heart colours. 
