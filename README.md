@@ -78,7 +78,7 @@ HealthCare Hub is a responsive website that can be viewed and accessed in a wide
 * Explore where they do cardiac Surgery
 * Understand the benefits of partaking in the role
 
-## Returning Visitor Goals
+#### Returning Visitor Goals
 *As a visitor returning to the website,  I want to:*
 
 * Know which centres I can go to find employment in cardiac surgery
@@ -87,6 +87,7 @@ HealthCare Hub is a responsive website that can be viewed and accessed in a wide
 
 ## Design
 
-![HeartCare Hub colour palete](https://www.color-hex.com/color-palette/1038387)
+![HeartCare Hub colour palete](assets/images/HeartCareHubcolourpalette.png)
 
 Thi set of colours were chosen to provide association with the heart colours. 
+
