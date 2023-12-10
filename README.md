@@ -1,7 +1,6 @@
-# **HealthCare Hub**
+# **HeartCare Hub**
 
-## UX
-HealthCare Hub is a responsive website that can be viewed and accessed in a wide range of devices. Tt is aimed to inform healthcare professionals the scope of cardiac surgery practice.
+HeartCare Hub is a responsive website that can be viewed and accessed in a wide range of devices. It is aimed to inform healthcare professionals the scope of cardiac surgery practice.
 
 ## CONTENTS
 
@@ -45,15 +44,15 @@ HealthCare Hub is a responsive website that can be viewed and accessed in a wide
   
 #### Project Goals
 
-   HealthCare Hub is a website aimed to give information ans cope of Cardiac Surgery to Healthcare professionals in aim to recruit them.
+   HeartCare Hub is a website aimed to give information regarding the scope of practice within Cardiac Surgery, to Healthcare professionals in aim to recruit them.
 
 ### Key information for the site
 
-* Benefits of a healthCare professional working in cardiac Surgery
-* Cardiac Surgeries avaiable at present
-* Roles and Responsibilities of Healthcare professionals in Cardiac Surgery
-* Location of Cardiac Surgery Centres
-* A way to contact for more information
+* Benefits to a healthcare professional working in cardiac surgery.
+* Cardiac surgeries avaiable at present.
+* Roles and Responsibilities of Healthcare professionals in Cardiac Surgery.
+* Location of Cardiac Surgery Centres.
+* A way to contact for more information.
 
 ### User Stories
 
@@ -61,33 +60,82 @@ HealthCare Hub is a responsive website that can be viewed and accessed in a wide
 
 *As a client I want users to:*
 
-* To be able to view the website using a range of device for accesibility
-* To be informed of cardiac surgery and it's scope
-* To be informed of the benefits working as a healthcare-professional in Cardiac Surgery
-* To be informed of the roles and responsibility as a healthcare professional
-* to be informed of the locations of centres that provide Cardiac surgery
-* To increase recruitment of nurses in Cardiac surgery
+* To be able to view the website using a range of device for accesibility.
+* To be informed of cardiac surgery and it's scope.
+* To be informed of the benefits working as a healthcare-professional in cardiac Surgery.
+* To be informed of the roles and responsibility as a healthcare professional.
+* to be informed of the locations of centres that provide cardiac surgery.
+* To increase recruitment of nurses in Cardiac surgery.
 
 #### Visitor Goals
 
 *As a visitor I want to:*
 
-* Gain knowledge of cardiac surgery and what it involves
-* Gain an understanding of roles and responsibilities as a health-care professional
-* Understand of my eligibility for the role
-* Explore where they do cardiac Surgery
-* Understand the benefits of partaking in the role
+* Gain knowledge of cardiac surgery and what it involves.
+* Gain an understanding of roles and responsibilities as a health-care professional.
+* Understand of my eligibility for the role.
+* Explore where they do cardiac surgery.
+* Understand the benefits of partaking in the role.
 
 #### Returning Visitor Goals
 *As a visitor returning to the website,  I want to:*
 
-* Know which centres I can go to find employment in cardiac surgery
-* Find Contact information to gain further information on Cardiac Surgery
-* Find further resources on cardiac surgery
+* Know which centres I can go to find employment in cardiac surgery.
+* Find contact information to gain further information on cardiac surgery.
+* Find further resources on cardiac surgery.
 
 ## Design
 
+### Colour Scheme
+
 ![HeartCare Hub colour palete](assets/images/HeartCareHubcolourpalette.png)
 
-Thi set of colours were chosen to provide association with the heart colours. 
+These set of colours were chosen to provide association with the representative colours of the heart.
 
+### Typography
+
+Research was completed on the preferred typography on a healthcare website. As HeartCare Hub can be referred to as a healthcare website, using similar typography will respect the convention and encourage consistency.
+
+These three fonts were recommended for the use of healthcare websites: [1]
+
+* Source Sans pro- sans-serif font
+* Crimsons text- serif font
+* Fjord One - sans-serif font
+
+The applied use of a combination serif and sans-serif is further recommended in a medical website to provide contrast.
+
+Therefore, these three recommended fonts will be used along with different font-weights used accodingly.
+
+These fonts will be taken from Google Fonts and to be used within my Cascading Style Sheets(CSS).
+
+### Imagery
+
+Images will be taken from free online sources and will be referenced accordinly. Many of these images will be healthcare related.
+
+### Wireframes
+
+
+### Features
+
+There will be 4 HTML pages in the website:
+
+##### *Homepage*
+
+* Benefits of working at cardiac surgery
+* Hero image with a healthcare*
+
+##### *Cardiac Surgery information*
+
+* Types of cardiac surgery
+* Roles and responsibility
+
+##### *Locations*
+
+* Maps of centres
+
+##### *Contact page*
+
+* Will include a text area and an email.
+  
+#### References:
+[1] Anon, (n.d.). Choosing The Best Fonts For Dental And Medical Websites | Dental CountryTM. [online] Available at: https://dentalcountry.com/doctors/articles/choosing-the-best-fonts-for-dental-and-medical-websites/#whatis [Accessed 10 Dec. 2023].
