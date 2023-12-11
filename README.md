@@ -115,14 +115,24 @@ Images will be taken from free online sources and will be referenced accordinly.
 ### Wireframes
 Homepage (mobile)
 
-![Home Page Wireframe Mobile](assets/images/wireframe-homepage1.png)
+![Home Page Wireframe Mobile](assets/images/homepage-mobilewf.png)
 
-![Home Page Wireframe Mobile](assets/images/wireframe-homepage2.png)
-Homapage (Web)
+Homepage (Web)
 
-![Home Page Wireframe website](assets/images/wireframe-homepage3.png)
+![Home Page Wireframe website](assets/images/homepage-webwf.png)
 
-![Home Page Wireframe website](assets/images/wireframe-homepage4.png)
+Cardiac surgery information page (Both web and mobile)
+
+![Information Wireframe website](assets/images/informationwf.png)
+
+Locations (Both web and mobile)
+![Location Wireframe website](assets/images/locationwf.png)
+
+Contact us link (Both web and mobile)
+![Contact us link Wireframe website](assets/images/contact-us-linkwf.png)
+
+Contact us (Both web and mobile)
+![Contact us Wireframe website](assets/images/contact-uswf.png)
 
 ### Features
 
