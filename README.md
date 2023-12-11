@@ -136,25 +136,31 @@ Contact us (Both web and mobile)
 
 ### Features
 
-There will be 4 HTML pages in the website:
+There will be 5 HTML pages in the website:
 
 ##### *Homepage*
 
-* Benefits of working at cardiac surgery
-* Hero image with a healthcare*
+* Hero image with a healthcare.
+* Qoates by relevant healthcare professionals.
+* Cardiac centres locations.
 
 ##### *Cardiac Surgery information*
 
-* Types of cardiac surgery
-* Roles and responsibility
+* Types of cardiac surgery.
+* Roles and responsibility.
 
 ##### *Locations*
 
-* Maps of centres
+* Information on centres.
+* Maps of centres.
 
-##### *Contact page*
+##### *Contact page link*
 
-* Will include a text area and an email.
+* Will include a hero image ad a link to the get in touch page.
+
+#### *Get in touch page*
+
+* Form to input details and enquiry of user.
   
 #### References:
 [1] Anon, (n.d.). Choosing The Best Fonts For Dental And Medical Websites | Dental CountryTM. [online] Available at: https://dentalcountry.com/doctors/articles/choosing-the-best-fonts-for-dental-and-medical-websites/#whatis [Accessed 10 Dec. 2023].
